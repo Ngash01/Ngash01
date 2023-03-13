@@ -4,7 +4,7 @@
 <!--
 **Ngash01/Ngash01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-I am fascinated by the endless possibilities of the tech world 
+<p>I am fascinated by the endless possibilities of the tech world<p>
 
 - 🖥️ see my portfolio 
 - 🔭 I’m currently working on react native
