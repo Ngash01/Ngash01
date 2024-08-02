@@ -8,5 +8,6 @@
 - 🔭 I’m currently working on microservices with spring boot
 - 👯 I’m looking to collaborate on web dev projects
 - 📫 How to reach me: kimaniamos82@gmail.com
+- 📫 LinkedIn: https://www.linkedin.com/in/amos-kimani-637517264/
 - ⚡ Fun fact: I am Funny
 
